@@ -10,5 +10,8 @@ This is my collection of university exercises rewritten in rust, as well as some
 
 ## How to build
 ```
-cargo init & cargo run
+cd <name_of_folder>
+mv <name_of_folder>/main.rs ../
+cargo build
+cargo run
 ```
